@@ -1,2 +1,2 @@
-<img src = https://github.com/Afircock/tipkcoC/blob/main/aee025cbda5caf8e.png" width = "200" height = "250" alt = "пример" align = "center" />  
+<img src = https://github.com/Afircock/tipkcoC/blob/main/aee025cbda5caf8e.png?raw=true" width = "200" height = "250" alt = "пример" align = "center" />  
 <audio src = "https://github.com/Afircock/tipkcoC/blob/main/greg.wav"> </audio>
